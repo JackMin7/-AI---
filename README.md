@@ -1,6 +1,6 @@
 <img src="https://typora-min.oss-cn-nanjing.aliyuncs.com/image-20260109132638534.png" alt="image-20260109132638534" style="zoom: 25%;" />
 
-#小智AI底座-透明探索版
+小智AI底座-透明探索版
 
 基于虾哥小智项目制作的AI手办底座，可作为手办的灵魂替代，开启音色复制功能，完美代入角色。
 
