@@ -4,7 +4,7 @@
 
 基于虾哥小智项目制作的AI手办底座，可作为手办的灵魂替代，开启音色复制功能，完美代入角色。
 
-##### 这里有个我将其代入“傻妞”角色的视频演示：
+##### 这里有个将其代入“傻妞”角色的视频演示：
 
 【【小智】【开源】AI手办底座-让你的手办拥有灵魂】 https://www.bilibili.com/video/BV1mSvkBQEp4/?share_source=copy_web&vd_source=fe8e5b3ff26c64ae050a20db1ea03f59
 
@@ -20,9 +20,9 @@
 
 > 就是拿一个螺丝固定这个小零件到圆形亚克力上面，屏幕用胶水粘在小零件上。这个小零件在淘宝可以买到：
 
+<img src="https://typora-min.oss-cn-nanjing.aliyuncs.com/image-20260109160428724.png" alt="image-20260109160428724" style="zoom:25%;" />
 
 
-<img src="https://typora-min.oss-cn-nanjing.aliyuncs.com/image-20260109140857940.png" alt="image-20260109140857940" style="zoom:33%;" />
 
 ### 关于软件：
 
@@ -35,5 +35,5 @@
 <img src="https://typora-min.oss-cn-nanjing.aliyuncs.com/image-20260109141300362.png" alt="image-20260109141300362" style="zoom:50%;" />
 
 
-
+ 
 ##### 另外！喜欢的给个星星吧！
