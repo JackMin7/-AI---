@@ -1,10 +1,8 @@
 <img src="https://typora-min.oss-cn-nanjing.aliyuncs.com/image-20260109132638534.png" alt="image-20260109132638534" style="zoom: 25%;" />
 
-小智AI底座-透明探索版
+# 小智AI底座-透明探索版
 
 基于虾哥小智项目制作的AI手办底座，可作为手办的灵魂替代，开启音色复制功能，完美代入角色。
-
-
 
 这里有个我将其代入“傻妞”角色的视频演示：
 
@@ -12,7 +10,7 @@
 
 <img src="https://typora-min.oss-cn-nanjing.aliyuncs.com/2025_12_28_17_44_IMG_8569.JPG" alt="2025_12_28_17_44_IMG_8569" style="zoom: 33%;" />
 
-关于外壳：
+### 关于外壳：
 
 >  1.采用透明极简风，没有一件打印零件，所以复刻成本极低，只需要Hardware里面CAD文件拿给淘宝亚克力厂家切割就行，大概8块钱可以买到一堆。
 
@@ -26,7 +24,7 @@
 
 <img src="https://typora-min.oss-cn-nanjing.aliyuncs.com/image-20260109140857940.png" alt="image-20260109140857940" style="zoom:33%;" />
 
-关于软件：
+### 关于软件：
 
 就是虾哥的代码，改了屏幕和喇叭麦克风的驱动。
 
